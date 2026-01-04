@@ -45,11 +45,11 @@ A lightweight automation tool for PS5 Homebrew users. This script scans your con
 }
 ```
 📜 Credits
-```Markdown
-    EchoStretch: For dump_runner, kstuff (Auto Game Mount logic), and original JS concepts.
 
-    ps5-payload-dev: For the websrv (Homebrew Launcher).
-```
+    [EchoStretch](https://github.com/EchoStretch): For dump_runner, kstuff (Auto Game Mount logic), and original JS concepts.
+
+    [ps5-payload-dev](https://github.com/ps5-payload-dev): For the websrv (Homebrew Launcher).
+
 ⚠️ Disclaimer
 
 This tool is for educational and development purposes. Use at your own risk.
