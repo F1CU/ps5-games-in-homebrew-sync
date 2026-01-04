@@ -1,0 +1,18 @@
+# User config
+settings.json
+
+# Logs
+ps5_sync_log.txt
+
+# Downloaded payload
+dump_runner.elf
+
+# Custom homebrew.js
+homebrew.js
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Archives
+*.zip
